@@ -1,2 +1,2 @@
 # clappy
-A version of flappy bird
+A version of flappy Bird
